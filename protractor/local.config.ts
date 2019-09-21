@@ -1,5 +1,4 @@
 import { Config, browser } from 'protractor';
-
 import { reporter } from './helpers/reporter';
 
 export const config: Config = {
